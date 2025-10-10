@@ -10,5 +10,5 @@ Insights and recommendations are provided on the following key areas:
 - **Regional comparison:** An evaluation of sales, orders and profit by region
 
 ## Executive Summary
-## Overview of Findings
+### Overview of Findings
 
