@@ -20,3 +20,4 @@ A total of 51,290 thousand orders were placed, with demand increasing year after
 <img width="327" height="602" alt="Beauty report 2" src="https://github.com/user-attachments/assets/0b412c20-f51d-4f02-b1fa-29595682870f" />
 
 ### Sales Trend Analysis:
+- Total sales increased steadyly through the years and the average price of goods 
