@@ -8,3 +8,7 @@ Insights and recommendations are provided on the following key areas:
 - **Profit Analysis:** Identify which product, region, and market brought in the most profit for the company.
 - **Sales Trend Analysis:** Evaluation of historical sales pattern, both globally and by region focusing on revenue, order volume and customer with the most orders
 - **Regional comparison:** An evaluation of sales, orders and profit by region
+
+## Executive Summary
+## Overview of Findings
+
