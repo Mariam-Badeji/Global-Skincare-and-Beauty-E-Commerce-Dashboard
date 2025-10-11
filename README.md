@@ -48,7 +48,10 @@ A total of 51,290 thousand orders were placed, with demand increasing year after
 <img width="495" height="284" alt="Beauty report 6" src="https://github.com/user-attachments/assets/349ed1f2-cb89-4f3b-ad6b-8306235c7bdb" />
 
 ### Recommendations
-
+- **Review Discount Strategy:** Although sales have grown consistently, increasing discounts have reduced profit margins. The company should evaluate its discounting approach to strike a balance between boosting sales volume and maintaining profitability. Introducing targeted or seasonal discounts instead of broad markdowns could help sustain revenue without eroding margins
+- **Optimize Underperforming Categories:** The Home Accessories category generated high sales but reported losses, suggesting possible pricing or cost inefficiencies. The company should reassess production costs, pricing structure, and discount policies within this category to restore profitability
+- **Focus on High-Performing Segments:** With the Corporate segment contributing 57.73% of total profit, the company should strengthen partnerships and loyalty programs for corporate clients while exploring opportunities to expand this segment further.
+- **Expand in High-Growth Regions:** With Asia-Pacific leading in sales and Western Europe showing strong profits, the company can leverage successful strategies from these regions and replicate them in emerging markets to drive balanced global growth.
   
 <img width="1683" height="943" alt="skincare dashboard 1" src="https://github.com/user-attachments/assets/b8b873fc-1650-4030-8361-135f25fa4f46" />
 <img width="1682" height="946" alt="Skincare dashboard  2" src="https://github.com/user-attachments/assets/05cbf95f-9d87-43d4-9475-78f362e08686" />
