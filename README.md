@@ -6,7 +6,8 @@ Using region, country, channel and customer segmentation, the project uncovers t
 
 Insights and recommendations are provided on the following key areas:
 - **Profit Analysis:** Identify which product, region, and market brought in the most profit for the company.
-- **Sales Trend Analysis:** Evaluation of historical sales pattern, both globally and by region focusing on revenue, order volume and customer with the most orders
+- **Sales Trend:** Evaluation of historical sales pattern, both globally and by region focusing on revenue, order volume and customer with the most orders
+- **Customer Trends:** 
 - **Regional comparison:** An evaluation of sales, orders and profit by region
 
 ## Executive Summary
@@ -37,4 +38,5 @@ A total of 51,290 thousand orders were placed, with demand increasing year after
 - The Corporate segment accounted for more than half of the company’s total profit at 57.73%, while the Consumer and Self-Employed segments contributed 33.08% and 9.19%, respectively.
 - The top-spending customer, identified as ID “LS-172001402”, spent a total of $7,351 between 2020 and 2023 and is located in the Central U.S. region.
 - The customer with ID “SV-203651406” placed the highest number of orders across all years.
+- An analysis of customer performance revealed that a small group of customers contributed a significant portion of total sales and profit, indicating a concentrated customer base. High-value customers, such as Customer ID “SV-203651406”, consistently made the most orders and generated substantial revenue. This suggests that loyal and repeat customers play a key role in driving business performance, highlighting the importance of customer retention strategies to sustain growth and profitability.
   
