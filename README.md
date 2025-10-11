@@ -20,4 +20,12 @@ A total of 51,290 thousand orders were placed, with demand increasing year after
 <img width="327" height="602" alt="Beauty report 2" src="https://github.com/user-attachments/assets/0b412c20-f51d-4f02-b1fa-29595682870f" />
 
 ### Sales Trend Analysis:
-- Total sales increased steadyly through the years and the average price of goods 
+- Between 2020 and 2023, the company recorded over $6 million in total sales. Sales showed a consistent year-on-year increase, indicating steady business growth over the four-year period. Both sales value and sales volume rose over time, reflecting higher customer demand and stronger market performance. Seasonal trends were also observed — sales typically started lower at the beginning of each year and peaked in November and December, likely driven by holiday promotions and festive shopping periods.
+- Over the years (2020–2022), the average unit price — the average amount customers paid per product — was increasing each year. However, in 2023, that upward trend reversed slightly, as the average price per product dropped by 1.6% compared to 2022. This is probably due to the discounting of prices which rose much higher during that same year.
+- The regions with the highest sales between 2020 and 2023 were Western Europe ($762,855) and Central America ($729,231). In contrast, the lowest sales were recorded in Eastern Europe, Western Africa, North Africa, Eastern Africa, Central Africa, Southern Africa, Canada, and Central Asia, each generating less than $170,000 in total sales. Across broader market categories, the Asia-Pacific region led with $1,831,648 in sales, while Africa recorded the lowest overall sales, totaling $486,811 during the same period.
+- The top-spending customer, identified as ID “LS-172001402”, spent a total of $7,351 between 2020 and 2023 and is located in the Central U.S. region.
+
+<img width="721" height="791" alt="Beauty report 3" src="https://github.com/user-attachments/assets/da4a5fb1-ca54-40a2-8550-44d68e9f10fa" />
+<img width="758" height="790" alt="beauty report 4" src="https://github.com/user-attachments/assets/de8ed423-fa4e-4032-9ae6-6b73a808f86a" />
+
+
