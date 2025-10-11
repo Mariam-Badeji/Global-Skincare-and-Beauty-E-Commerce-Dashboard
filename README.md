@@ -40,3 +40,7 @@ A total of 51,290 thousand orders were placed, with demand increasing year after
 - The customer with ID “SV-203651406” placed the highest number of orders across all years.
 - An analysis of customer performance revealed that a small group of customers contributed a significant portion of total sales and profit, indicating a concentrated customer base. High-value customers, such as Customer ID “SV-203651406”, consistently made the most orders and generated substantial revenue. This suggests that loyal and repeat customers play a key role in driving business performance, highlighting the importance of customer retention strategies to sustain growth and profitability.
   
+<img width="1683" height="943" alt="skincare dashboard 1" src="https://github.com/user-attachments/assets/b8b873fc-1650-4030-8361-135f25fa4f46" />
+<img width="1682" height="946" alt="Skincare dashboard  2" src="https://github.com/user-attachments/assets/05cbf95f-9d87-43d4-9475-78f362e08686" />
+<img width="1684" height="943" alt="Skincare dashboard 3" src="https://github.com/user-attachments/assets/f3e12560-3a94-49a9-ab71-2634628fbfc2" />
+
