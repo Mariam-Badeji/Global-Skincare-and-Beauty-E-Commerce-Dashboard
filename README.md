@@ -25,7 +25,8 @@ A total of 51,290 thousand orders were placed, with demand increasing year after
 - The regions with the highest sales between 2020 and 2023 were Western Europe ($762,855) and Central America ($729,231). In contrast, the lowest sales were recorded in Eastern Europe, Western Africa, North Africa, Eastern Africa, Central Africa, Southern Africa, Canada, and Central Asia, each generating less than $170,000 in total sales. Across broader market categories, the Asia-Pacific region led with $1,831,648 in sales, while Africa recorded the lowest overall sales, totaling $486,811 during the same period.
 - The top-spending customer, identified as ID “LS-172001402”, spent a total of $7,351 between 2020 and 2023 and is located in the Central U.S. region.
 
-<img width="721" height="791" alt="Beauty report 3" src="https://github.com/user-attachments/assets/da4a5fb1-ca54-40a2-8550-44d68e9f10fa" />
+<img width="745" height="847" alt="Beauty report 3" src="https://github.com/user-attachments/assets/e5043b56-1ede-46fd-8b76-b5a435931b02" />
+
 <img width="758" height="790" alt="beauty report 4" src="https://github.com/user-attachments/assets/de8ed423-fa4e-4032-9ae6-6b73a808f86a" />
 
 
