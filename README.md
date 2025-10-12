@@ -5,10 +5,10 @@ This dashboard analyzes a global e-commerce skincare & beauty dataset covering 2
 Using region, country, channel and customer segmentation, the project uncovers trends, seasonal patterns, top products and customer cohorts that informed strategic decisions on assortment, pricing, and geographic expansion.
 
 Insights and recommendations are provided on the following key areas:
-- **Profit Analysis:** Identify which product, region, and market brought in the most profit for the company.
 - **Sales Trend:** Evaluation of historical sales pattern, both globally and by region focusing on revenue, order volume and customer with the most orders
-- **Customer Trends:** 
-- **Regional comparison:** An evaluation of sales, orders and profit by region
+- **Profit Trend:** Identify which product, region, and market brought in the most profit for the company.
+- **Customer Trends:** Analyses which segment brings in the most sales and if they are profitable
+- **Product Inventory:** Identify which product category was ordered the most and how profitable the products are to the company.
 
 ## Executive Summary
 ### Overview of Findings
